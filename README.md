@@ -1,1 +1,3 @@
 # uploadFiles
+
+关于上传的代码主要在upload中。uploadService.js是一个非常简陋的后台上传服务器，如果需要可以拿来用，但是需要自己改动下相应的参数
